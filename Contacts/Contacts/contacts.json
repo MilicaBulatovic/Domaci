@@ -1,0 +1,92 @@
+[
+   {
+      "first_name":"Alice",
+      "last_name":"Smith",
+      "phone_number":"555-123-4567",
+      "note":"Works in marketing"
+   },
+   {
+      "first_name":"Bob",
+      "last_name":"Johnson",
+      "phone_number":"555-789-1234",
+      "note":"Likes to play golf on the weekends"
+   },
+   {
+      "first_name":"Caroline",
+      "last_name":"Williams",
+      "phone_number":"555-456-7890",
+      "note":"Has a dog named Max"
+   },
+   {
+      "first_name":"David",
+      "last_name":"Brown",
+      "phone_number":"555-246-8073",
+      "note":"Enjoys hiking and traveling"
+   },
+   {
+      "first_name":"Emily",
+      "last_name":"Jones",
+      "phone_number":"555-369-7415",
+      "note":"Plays the piano"
+   },
+   {
+      "first_name":"Emily",
+      "last_name":"Davis",
+      "phone_number":"555-456-7890",
+      "note":"Emily is a warm and friendly person who is always willing to listen and lend a helping hand. She is a talented baker and enjoys creating delicious treats for her family and friends. She is also an avid reader and enjoys spending time outdoors."
+   },
+   {
+      "first_name":"Frank",
+      "last_name":"Miller",
+      "phone_number":"555-789-0123",
+      "note":"Frank is a driven and ambitious individual who is always striving to improve and succeed. He is passionate about his work and is known for his attention to detail and dedication to quality. In his free time, he enjoys playing sports and spending time with his family."
+   },
+   {
+      "first_name":"Greta",
+      "last_name":"Taylor",
+      "phone_number":"555-102-4568",
+      "note":"Greta is a kind and compassionate person who always puts others before herself. She volunteers her time at local shelters and charities and is always willing to lend a helping hand to those in need. She enjoys reading, gardening, and spending time with her pets."
+   },
+   {
+      "first_name":"Henry",
+      "last_name":"White",
+      "phone_number":"555-753-1982",
+      "note":"Henry is a curious and adventurous person who loves to explore new places and try new things. He is an avid hiker and enjoys spending time in nature. He is also passionate about learning and is always looking for new opportunities to expand his knowledge and skills."
+   },
+   {
+      "first_name":"Isabella",
+      "last_name":"Black",
+      "phone_number":"555-369-8412",
+      "note":"Isabella is a creative and artistic person. She enjoys painting, drawing, and playing music in her free time. She is also a big fan of science fiction and fantasy, and loves to discuss and debate the latest movies and books in these genres."
+   },
+   {
+      "first_name":"James",
+      "last_name":"Green",
+      "phone_number":"555-135-7984",
+      "note":"James is a friendly and outgoing person who enjoys spending time with his family and friends. He is an avid sports fan and loves to play and watch various sports. He is also passionate about traveling and experiencing new cultures."
+   },
+   {
+      "first_name":"Karen",
+      "last_name":"Ross",
+      "phone_number":"555-246-8035",
+      "note":"Karen is a hardworking and dedicated individual who is always striving to improve and succeed. She is passionate about her job and is known for her attention to detail and dedication to quality. In her free time, she enjoys reading and spending time with her pets."
+   },
+   {
+      "first_name":"Laura",
+      "last_name":"Miller",
+      "phone_number":"555-357-9614",
+      "note":"Laura is a kind and compassionate person who always puts others before herself. She volunteers her time at local shelters and charities and is always willing to lend a helping hand to those in need. She enjoys reading, gardening, and spending time with her pets."
+   },
+   {
+      "first_name":"Michael",
+      "last_name":"Brown",
+      "phone_number":"555-486-2109",
+      "note":"Michael is a curious and adventurous person who loves to explore new places and try new things. He is an avid hiker and enjoys spending time in nature. He is also passionate about learning and is always looking for new opportunities to expand his knowledge and skills."
+   },
+   {
+      "first_name":"Nina",
+      "last_name":"Davis",
+      "phone_number":"555-741-3856",
+      "note":"Nina is a creative and artistic person. She enjoys painting, drawing, and playing music in her free time. She is also a big fan of science fiction and fantasy, and loves to discuss and debate the latest movies and books in these genres."
+   }
+]
